@@ -4,7 +4,7 @@ const search = function() {
 
     
     searchBtn.addEventListener('click', () => {
-        console.log(input.value)
+        console.log(input.value);
     })
 }
 
